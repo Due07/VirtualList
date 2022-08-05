@@ -1,7 +1,4 @@
-# demo
-
-
-## 虚拟列表
+# 虚拟列表
 
 ## Project setup
 ```
